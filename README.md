@@ -4,7 +4,7 @@
 - John Rempe
 
 ### What is this?
-This was my Algorighm Analysis Group Project for my Data Structures class in the Spring of 2002.
+This was my Algorithm Analysis Group Project for my Data Structures class in the Spring of 2022.
 
 ### Project Goal?
 The purpose of this project was to calculate and record the speed time complexity of various sorting algorithms to compare their sorting speeds using Big O notation.
